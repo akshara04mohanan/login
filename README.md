@@ -33,10 +33,10 @@ A sleek and responsive **Login Page Interface** built using **HTML5** and **CSS3
 
 ```
 📁 project-folder/
-├── 📄 index.html        # Main login page
-├── 🎨 loogin.css        # CSS styling
-├── 🖼️ new.jpg           # Background image
-└── 📘 README.md         # Documentation
+├── 📄 index.html      
+├── 🎨 loogin.css        
+├── 🖼️ new.jpg           
+└── 📘 README.md        
 ```
 
 ---
@@ -68,30 +68,6 @@ A sleek and responsive **Login Page Interface** built using **HTML5** and **CSS3
 
 ---
 
-## 🚀 **Getting Started**
-
-1️⃣ Clone the repository:
-
-```
-git clone https://github.com/your-username/your-repo-name.git
-```
-
-2️⃣ Navigate to the project:
-
-```
-cd your-repo-name
-```
-
-3️⃣ Open the page in your browser:
-
-```
-Double-click index.html
-```
-
-That’s it! 🎉
-No extra setup needed.
-
----
 
 ## 🎨 **Customization Options**
 
